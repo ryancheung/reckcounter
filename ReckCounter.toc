@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: ReckCounter
+## Title-zhCN: 清算计数器(by wow0.org)
+## Notes: Counts saved reckoning strikes in a combo point gauge.
+## Notes-zhCN: 圣骑士清算计数器(由60魔兽怀旧服零服http://wow0.org提供)
+## OptionalDeps:
+## Dependencies:
+ReckCounter.xml
